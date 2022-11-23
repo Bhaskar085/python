@@ -1,0 +1,13 @@
+a=int(input('enter value of a:'))
+if a>0:
+print('value is positive')
+else:
+print('value is negative')
+
+output:
+enter value of a:5
+value is positive
+
+output2:
+enter value of a:-4
+value is negative
