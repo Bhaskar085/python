@@ -1,0 +1,29 @@
+print('write a progame to print arithmetic operations\n')
+a=int(input('enter a value')
+b=int(input('enter b value')
+c=a+b
+d=a-b
+A=a/b
+B=a*b
+C=a%b
+D=a**b
+e=a//b
+print('\nThe Addition of two numbers is:',c)
+print('The subraction of two numbers is:',d)
+print('The divison of two numbers is:',A)
+print('The multiplication of two numbers is:',B)
+print('The modulo of two numbers is:',C)
+print('The exponention of two numbers is:',D)
+print('The floor of two numbers is:',e)
+
+output:
+enter a value:6
+enter b value:3
+
+The additon of two numbers is:9
+The subraction of two numbers is:3
+The divison of two numbers is:2.0
+The multiplication of two numbers is:18
+The modulo of two numbers is:0
+The exponention of two numbers is:216
+The floor of two numbers is:2
