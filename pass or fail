@@ -1,0 +1,24 @@
+print('write a progame to print whether the student pass or fail')
+sno=input('Enter student number')
+sname=input('Enter student name')
+Gp=input('Enter student Group name')
+S1=int(input('Enter the marks of Python for data analysis:')
+S2=int(input('Enter the marks of statistics:')
+S3=int(input('Enter the marks of data base management system:')
+print('pass')
+S1>=35
+S2>=35
+S3>=35
+else
+print('fail')
+
+output:
+write a program to print whether the student pass or fail
+
+Enter student number:213997102021
+Enter student name:G.bhaskar
+Enter student Group name:mpcs
+Enter the marks of python for data analysis:60
+Enter the marks of statistics:68
+Enter the marks of data base management system:45
+pass
