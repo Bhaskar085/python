@@ -1,0 +1,21 @@
+print('write a program to print relational operations')
+a=int(input('enter frist value'))
+b=int(input('enter second value'))
+print(a<b)
+print(a>b)
+print(a==b)
+print(a!=b)
+print(a>=b)
+print(a<=b)
+
+output:
+write a programe to print Relational operations
+
+enter frist value:8
+enter second value:3
+true
+flase
+flase
+true
+true
+flase
