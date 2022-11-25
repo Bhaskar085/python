@@ -1,0 +1,12 @@
+print('find out if the given element is avaliable in the list or not')
+list=[22,55,11,88,76,34,32,55,5,7,2,56,3,0]
+a=int(input('\nenter any number:'))
+if a in list:
+    print('yes')
+    else:
+        print('no')
+
+output:
+find out if the given element i avaliable in the list or not
+enter the element:11
+yes
