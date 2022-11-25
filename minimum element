@@ -1,0 +1,15 @@
+print('find out the minimun element in the list')
+list=[22,55,11,88,55,76,34,32,5,7,2,56,3,0]
+min=list[0]
+for i in list:
+    if i<min:
+        min=i
+        print('minimum number is=',min)
+        
+ output:
+ find out the minimun element in the list
+minimum number is= 11
+minimum number is= 5
+minimum number is= 2
+minimum number is= 0
+> 
