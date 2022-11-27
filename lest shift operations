@@ -1,0 +1,12 @@
+print('write a program to perform 1 to 10 left shift opertions on the given number')
+5
+a<<1:10
+a<<2:20
+a<<3:40
+a<<4:80
+a<<5:160
+a<<6:320
+a<<7:640
+a<<8:1280
+a<<9:2560
+a<<10:5120
