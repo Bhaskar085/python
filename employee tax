@@ -1,0 +1,23 @@
+print('write a progarm to genarate employee tax\n')
+empo=int(input('enter the employee number:'))
+empname=input('enter the employee name:')
+empdesig=input('enter the employee designation')
+basicsalary=int(input('enter the basicsalary'))
+da=int(input('enter the daily allowence:')
+ta=int(input('enter the travelling allowance:'))
+hra=int(input('enter the house allowance')
+netsalary=basicsalary+da+hra
+if netsalary>1000000
+ tax=netsalary*10/100
+ print(tax)
+else if netsalary>50000
+ tax=netsalary*7/100
+ print(tax)
+else if netsalary>40000
+ tax=netsalary*4/100
+ print(tax)
+else if netsalary>20000
+ tax=netsalary*2/100
+ print(tax)
+else
+ print(no tax)
