@@ -1,0 +1,11 @@
+prunt('writr a program to print student is ppass or fail\n')
+sno=int(input('enter the student number'))
+sname=input('enter the student name')
+group=input('enter the group')
+s1=int(input('enter the statastics marks:'))
+s2=int(input('enter the python marks:'))
+s3=int(input('enter the dbms marks:')
+if s1>=35 and s2>=35 and s3>=35:
+ print('the student',sname',is pass')
+else:
+ print('the student',sname',is fail')
