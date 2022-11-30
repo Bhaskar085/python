@@ -1,0 +1,13 @@
+print('write a program to print biggest of four numbers')
+x=int(input('enter  the frist value'))
+y=int(input('enter the second value'))
+z=int(input('enter the third value'))
+p=int(input('enter the fourth value'))
+if x>=y and x>=y and x>=p:
+ print('the frist number is big:',x
+elif y>=z and y>=p and y>=x:
+ print('the second number is big:',y)
+elif z>=p and z>=x and z>=y:
+ print('the third number is big',z)
+else:
+ print('the fout=rth number is big',p)
