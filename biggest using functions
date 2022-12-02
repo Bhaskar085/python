@@ -1,0 +1,33 @@
+print('enter the two numbers by using functions')
+def biggestvalue(a,b):
+    if a>b:
+        print('A is big')
+    else:
+        print('B is big')
+    print('******model 1******\n')
+    a=int(input('enter A value:'))
+    b=int(input('enter B value:'))
+    biggestvalue(a,b)
+    
+def biggestvalue(a,b):
+   if a>b:
+        return'a is big'
+   else:
+        return'B is big'
+    print('\n******model 2******\n')
+    a=int(input('enter A value'))
+    b=int(input('enter B value'))
+    print(biggestvalue(a,b))
+
+def biggestvalue(a,b):
+    if a>b:
+        return true
+    else:
+        return flase
+    print('\n******model 3******\n')
+    a=int(input('enter A value:'))
+    b=int(input('enter B value:'))
+    if(biggestvalue(a,b)):
+        print('A is big')
+    else:
+        print('B is big')
