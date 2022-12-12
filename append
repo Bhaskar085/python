@@ -1,0 +1,8 @@
+I=[]
+n=int(input())
+for i in range(n):
+   val=int(input('enter the number:'))
+   I.append(val)
+print(I)
+print(max(I))
+print(min(I))
